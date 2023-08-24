@@ -1,0 +1,39 @@
+.header {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image:url(dasimage1.jpeg);
+}
+
+.brush-title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frames-title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint-title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue; 
+}
+
+em {
+    font-weight: bold;
+    font-style: normal;
+    color: blue;
+}
+
